@@ -1,0 +1,56 @@
+<use name="root"/>
+<use name="boost"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/MessageLogger"/>
+<use name="FWCore/Utilities"/>
+<use   name="FWCore/ServiceRegistry"/>
+
+
+<use name="SimDataFormats/TrackingHit"/>
+<use name="CommonTools/Utils"/>
+<use name="CommonTools/UtilAlgos"/>
+
+
+<use name="DataFormats/MuonDetId"/>
+<use name="DataFormats/GEMDigi"/>
+<use name="DataFormats/RPCDigi"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/GEMRecHit"/>
+<use   name="DataFormats/DetId"/>
+<use   name="DataFormats/GeometrySurface"/>
+<use   name="DataFormats/GeometryVector"/>
+
+<use   name="MagneticField/Records"/>
+<use   name="MagneticField/Engine"/>
+<use   name="SimDataFormats/GeneratorProducts "/>
+<use   name="SimDataFormats/Track"/>
+<use   name="SimDataFormats/TrackingHit"/>
+<use   name="SimDataFormats/Vertex"/>
+<use   name="SimDataFormats/TrackingAnalysis" />
+<use name="SimDataFormats/CrossingFrame"/>
+<use name="SimDataFormats/TrackerDigiSimLink"/>
+<use name="SimGeneral/HepPDTRecord"/>
+
+<use   name="RecoMuon/DetLayers"/>
+<use   name="RecoMuon/Records"/>
+<use   name="rootcore"/>
+<use   name="rootgraphics"/>
+<use   name="Root"/>
+<use   name="boost"/>
+
+
+<use name="Geometry/CommonDetUnit"/>
+<use name="Geometry/Records"/>
+<use name="Geometry/RPCGeometry"/>
+<use name="Geometry/CSCGeometry"/>
+<use name="Geometry/GEMGeometry"/>
+
+
+<use name="Utilities/General"/>
+
+<use name="GEMCode/GEMValidation"/>
+
+<flags EDM_PLUGIN="1"/>
+
